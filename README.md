@@ -11,7 +11,7 @@
 
 ## 💻 Descrição Do Projeto
 
-Vamos tranformar uma poesia em um site
+Vamos tranformar uma poesia em um site.
 
 ## 📚 Habilidades e Níveis de Conhecimento
 
